@@ -22,27 +22,13 @@
 
 
 <style type="text/css">
-.Estilo6 {
+.Estilo1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	color: #000000;
+	color: blue;
 	font-size: 11px;
 	font-weight: bold;
 }
-.Estilo7 {	font-family: Verdana, Arial, Helvetica, sans-serif;
-	color: #FDFBFB;
-	font-size: 14px;
-}
 
-
-#formpriouno table tr .Estilo6 strong {
-	color: #000000;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-.Estilo6 div {
-	font-weight: bold;
-	color: #FFFFFF;
-	font-size: 15px;
-}
 body {
 	background-color: #696;
 	background-image: url(images/bgbodyb.jpg);
